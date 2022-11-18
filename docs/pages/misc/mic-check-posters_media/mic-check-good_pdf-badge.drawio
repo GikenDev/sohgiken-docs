@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="vDc8igpyrBxH6NzmCyo-" name="ページ1">
+        <mxGraphModel dx="430" dy="327" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" value="" style="whiteSpace=wrap;html=1;fontSize=6;strokeColor=#FF6666;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="20" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.67,0],[1,0.25],[1,1],[0,1]];polyline=0;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="35" y="30" width="30" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;PDF&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=6;strokeColor=none;fillColor=#FF6666;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="50" width="40" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="mic-check-good.pdf" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="30" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="50.6 kB" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="50" width="140" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
