@@ -2,11 +2,11 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2022%2F08%2F28-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2022%2F08%2F28-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2022%2F11%2F20-blue)
 
 プロジェクタは、**基本的には指示があるまで電源コードを抜かないでください。**
 
-![Projector](./projector-off_media/projector.jpg)
+![Projector](./projector-off_media/projector.webp)
 
 ## 理由
 
@@ -18,3 +18,5 @@
 
 機材片付けの際、プロジェクタに繋がるドラムコードやテーブルタップの扱いには、十分注意してください。
 電源コードの取り外しは、**ファンの停止を確認し、必ず映像機材の管理担当の確認をとった上で**行ってください。
+
+![Projector unplug](./projector-off_media/projector-unplug.webp)

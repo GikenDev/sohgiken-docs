@@ -2,11 +2,11 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2022%2F08%2F14-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2022%2F08%2F28-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2022%2F11%2F20-blue)
 
 マイクの入力を確認する際、**マイクを叩く行為をされないよう**、お願い致します。
 
-![Mic check NG](mic-check_media/mic-ng.jpg)
+![Mic check NG](mic-check_media/mic-ng.webp)
 
 ## 理由
 
@@ -17,4 +17,4 @@
 
 マイクヘッドのグリル部分を、爪でカリカリと音を立て、入力のチェックを行ってください。
 
-![Mic check OK](mic-check_media/mic-ok.jpg)
+![Mic check OK](mic-check_media/mic-ok.webp)

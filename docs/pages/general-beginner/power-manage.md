@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2022%2F08%2F14-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2022%2F08%2F28-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2022%2F11%2F20-blue)
 
 準備日なども含めた会場の使用期間中、基本的に**許可無くコンセントを使用することを禁止しております。**
 これは、技研員だけでなく、他部署のスタッフ、来場者含めた全員にお願いをしております。
@@ -10,7 +10,7 @@
 会場のコンセントは、テープによって閉じられています。
 イベント終了まで、許可無くテープを剥がして機器を繋ぐことが無いよう、お願い致します。
 
-![Img](power-manage_media/closed-socket.jpg)
+![Closed socket](power-manage_media/closed-socket.webp)
 
 ご不便をおかけしますが、もちろん正当な理由があっての上でお願いです。
 
