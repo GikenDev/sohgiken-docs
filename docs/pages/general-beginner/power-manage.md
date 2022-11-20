@@ -10,7 +10,7 @@
 会場のコンセントは、テープによって閉じられています。
 イベント終了まで、許可無くテープを剥がして機器を繋ぐことが無いよう、お願い致します。
 
-![Closed socket](power-manage_media/closed-socket.webp)
+![Closed socket](./power-manage_media/closed-socket.webp)
 
 ご不便をおかけしますが、もちろん正当な理由があっての上でお願いです。
 
