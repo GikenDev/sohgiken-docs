@@ -6,7 +6,7 @@
 
 プロジェクタは、**基本的には指示があるまで電源コードを抜かないでください。**
 
-![Projector](./projector-off_media/projector.webp)
+![Projector](./media/projector.webp)
 
 ## 理由
 
@@ -19,4 +19,4 @@
 機材片付けの際、プロジェクタに繋がるドラムコードやテーブルタップの扱いには、十分注意してください。
 電源コードの取り外しは、**ファンの停止を確認し、必ず映像機材の管理担当の確認をとった上で**行ってください。
 
-![Projector unplug](./projector-off_media/projector-unplug.webp)
+![Projector unplug](./media/projector-unplug.webp)
