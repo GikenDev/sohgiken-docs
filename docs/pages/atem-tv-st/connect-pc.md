@@ -1,5 +1,9 @@
 # PC を接続する
 
+![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
+![Created date](https://img.shields.io/badge/Created-2023%2F08%2F19-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F19-blue)
+
 ATEM Software Control という PC ソフトから ATEM スイッチャを操作することもできます。
 本体ボタンでの操作に比べ、アップストリームキーやスチル設定など、より高度な制御をすることができます。
 
