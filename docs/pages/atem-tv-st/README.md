@@ -6,7 +6,7 @@
 ATEM は、Blackmagic Design 社によって製作されている業務用放送機器のシリーズです。
 そのうちの 1つ、ATEM Television Studio HD は、コンパクトながら小規模なイベントや配信に十分な機能を持った機器です。
 
-![ATEM Television Studio HD](./media/atem-image.webp)
+![ATEM Television Studio HD](./media/atem-image.webp ':size=500')
 
 プロ仕様とあって、操作方法も少しクセがあり、思い通り扱うには少し慣れが必要でしょう。
 
