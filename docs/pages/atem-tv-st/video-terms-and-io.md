@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F08%2F20-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F20-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F23-blue)
 
 まず、ATEM スイッチャにどのような端子があるか確認してみましょう。
 
@@ -14,6 +14,7 @@
 * SDI INPUTS (5~8)
 * PGM (Program)
 * AUX
+* MULTI-VIEW
 
 ?> SDI は、主に業務用途で使われている映像信号規格の 1つで、HDMI より長い距離を伝送できる特徴があります。
 
@@ -22,6 +23,11 @@ HDMI は、主に PC やゲーム機の映像入力に。SDI は、主にカメ�
 Program は、最終的なメイン出力です。
 
 AUX は、各入力や出力から任意の映像を 1つ選んで出力できます。特定の出力を別で記録したり、モニタリングしたりするのに使えます。
+
+MULTI-VIEW は、各入力、Preview、Program を 1画面で確認できる出力です。
+この画面を見ながら操作をするのが基本です。
+
+![ATEM Multi view](./media/atem-multi-view.webp ':size=700')
 
 映像入力から出力までを図にすると、以下のようになります。
 
