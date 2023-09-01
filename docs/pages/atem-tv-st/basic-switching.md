@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F08%2F30-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F30-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F01-blue)
 
 ## 基本となる操作手順
 
@@ -35,14 +35,14 @@ AUTO は、指定の映像効果を指定時間かけて緩やかに映像を切
 
 ## 本体ボタンでの切り替え
 
-![Machine interface](./media/interface-buttons.webp ':size=700')
+![Machine interface](./media/switch-body.webp ':size=700')
 
 白いボタン 1〜8 で Preview 映像の選択をします。
 その右側にある 'CUT' 'AUTO' ボタンで切り替えを実行できます。
 
 ## ATEM Software Control (PC) での切り替え
 
-![PC interface](./media/atem-sw-ui.webp ':size=700')
+![PC interface](./media/switch-pc.webp ':size=700')
 
 プレビューボタン CAM1〜8 で Preview 映像の選択をします。
 その右側にある 'トランジションスタイル' の 'CUT' 'AUTO' ボタンで切り替えを実行できます。
