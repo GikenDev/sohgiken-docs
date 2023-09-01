@@ -2,12 +2,14 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F08%2F19-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F19-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F01-blue)
 
 ATEM Software Control という PC ソフトから ATEM スイッチャを操作することもできます。
 本体ボタンでの操作に比べ、アップストリームキーやスチル設定など、より高度な制御をすることができます。
 
-!> 本体の IP アドレスなど、一部は本体ボタン操作でないと設定できない項目があります。
+!> 本体の IP アドレスなど、一部は[本体ボタン操作](./body-config.md)でないと設定できない項目があります。
+
+!> USB の端子がついていますが、USB 経由では一部の設定変更しかできず、スイッチング操作はできません。
 
 ## ATEM Software Control をインストールする
 
