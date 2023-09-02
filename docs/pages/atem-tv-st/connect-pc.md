@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F08%2F19-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F01-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F02-blue)
 
 ATEM Software Control という PC ソフトから ATEM スイッチャを操作することもできます。
 本体ボタンでの操作に比べ、アップストリームキーやスチル設定など、より高度な制御をすることができます。
@@ -67,4 +67,4 @@ IP アドレスの入力が出てきたら、上で ATEM スイッチャに設�
 
 下のような画面になれば接続成功です。
 
-![ATEM Software Control UI](./media/atem-sw-ui.webp ':size=500')
+![ATEM Software Control UI](./media/atem-sc-ui.webp ':size=500')
