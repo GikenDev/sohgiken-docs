@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F09%2F09-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F09-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F16-blue)
 
 ## HDMI / カメラ音声
 
