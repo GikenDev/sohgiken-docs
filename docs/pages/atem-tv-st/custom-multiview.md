@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F09%2F02-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F02-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F09%2F20-blue)
 
 使用する映像入力によっては、デフォルトの Multi view 表示が不便なことがあります。
 Multi view の内容は PC (ATEM Software Control) から変更でき、必要な映像を表示するようにしたり、表示名を変更したりできます。
