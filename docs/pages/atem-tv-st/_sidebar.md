@@ -1,0 +1,13 @@
+* [トップ](/)
+
+* [コース一覧](/pages/)
+  * [ATEM マニュアル](/pages/atem/)
+    * [主な端子と映像入出力フロー](./video-terms-and-io)
+    * [本体設定をする](./body-config.md)
+    * [PC を接続する](./connect-pc)
+    * [基本的なスイッチング操作](./basic-switching)
+    * [Multi View をカスタマイズする](./custom-multiview.md)
+    * [静止画を使う](./use-still)
+    * [オーディオ制御](./audio-control.md)
+    * [映像を合成する](./video-composite.md)
+    * [トラブルシューティング](./troubleshooting.md)
