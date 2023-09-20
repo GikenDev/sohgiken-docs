@@ -1,7 +1,7 @@
 * [トップ](/)
 
 * [コース一覧](/pages/)
-  * [ATEM マニュアル](/pages/atem/)
+  * [ATEM マニュアル](/pages/atem-tv-st/)
     * [主な端子と映像入出力フロー](./video-terms-and-io)
     * [本体設定をする](./body-config.md)
     * [PC を接続する](./connect-pc)
