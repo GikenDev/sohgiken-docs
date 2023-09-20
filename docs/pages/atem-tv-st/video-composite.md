@@ -68,13 +68,13 @@ KEY 1 を有効化すると、Preview に Upstream Key が適用されます。
 
 ![USK Preview - Software control](./media/usk-preview-sc.webp)
 
-![USK Preview - Multi view](./media/usk-preview-view.webp ':size=700')
+![USK Preview - Multi View](./media/usk-preview-view.webp ':size=700')
 
 この状態でスイッチすれば、Program に反映されます。
 
 ![USK Program - Software control](./media/usk-program-sc.webp)
 
-![USK Program - Multi view](./media/usk-program-view.webp ':size=700')
+![USK Program - Multi View](./media/usk-program-view.webp ':size=700')
 
 ### パターン合成
 

@@ -27,9 +27,9 @@ AUX は、各入力や出力から任意の映像を 1つ選んで出力でき�
 MULTI-VIEW は、各入力、Preview、Program を 1画面で確認できる出力です。
 この画面を見ながら操作をするのが基本です。
 
-![ATEM Multi view](./media/atem-multi-view.webp ':size=700')
+![ATEM Multi View](./media/atem-multi-view.webp ':size=700')
 
-?> Multi view の映像配置は[変更することができます](./custom-multiview.md)。
+?> Multi View の映像配置は[変更することができます](./custom-multiview.md)。
 
 映像入力から出力までを図にすると、以下のようになります。
 
