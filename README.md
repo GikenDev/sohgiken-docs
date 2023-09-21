@@ -4,6 +4,8 @@
 
 docsify により、markdown で記述された文書を静的 Web ページとして GitHub Pages で公開しています。
 
+<https://gikendev.github.io/sohgiken-docs/>
+
 ## プレビュー方法
 
 ### npm 及び docsify のインストール (初回のみ)
