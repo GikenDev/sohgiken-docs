@@ -4,12 +4,17 @@
 
 docsify により、markdown で記述された文書を静的 Web ページとして GitHub Pages で公開しています。
 
+<https://gikendev.github.io/sohgiken-docs/>
+
 ## プレビュー方法
 
 ### npm 及び docsify のインストール (初回のみ)
 
-1. npm をインストールする (環境によって導入方法は様々, 詳細は公式ページで)
+1. npm をインストールする (環境によって導入方法は様々, 詳細は[公式ページで](https://nodejs.org/ja/download))
 2. npm コマンドで docsify をインストールする
+
+1\. について、npm は Node.js に付属しているパッケージマネージャです。
+Node.js のインストールと同時に利用可能になります。
 
 2\. について、必要に応じて `-g` オプションを付与し、全領域で docsify コマンドを利用できるようにします。
 
