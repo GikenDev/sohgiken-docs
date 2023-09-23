@@ -6,7 +6,7 @@
 
 マイクの入力を確認する際、**マイクを叩く行為をされないよう**、お願い致します。
 
-![Mic check NG](./media/mic-ng.webp)
+![Mic check NG](./media/mic-ng.webp ':size=500')
 
 ## 理由
 
@@ -17,4 +17,4 @@
 
 マイクヘッドのグリル部分を、爪でカリカリと音を立て、入力のチェックを行ってください。
 
-![Mic check OK](./media/mic-ok.webp)
+![Mic check OK](./media/mic-ok.webp ':size=500')
