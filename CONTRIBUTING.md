@@ -75,6 +75,27 @@ docs/
 
 * Last Modified バッジの日付を更新した
 
+## 作成者・日付バッジ
+
+各ページの頭に、このようなバッジを貼ってあります。
+
+![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
+![Created date](https://img.shields.io/badge/Created-2023%2F04%2F05-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F04%2F05-blue)
+
+作成者が分かることで問い合わせをしやすくする、編集日が分かることで情報の古さが分かるようにする意図があります。
+
+shields\.io というフリーのサービスを使用しており、以下のように書くだけでバッジを貼ることができます。
+
+```md
+![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
+![Created date](https://img.shields.io/badge/Created-2023%2F04%2F05-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F04%2F05-blue)
+                                                                   ^~~~   ^~   ^~
+この数字を変えることで 年/月/日 を指定できる
+'%2F' は '/' と表示される
+```
+
 ## 画像について
 
 ### 解像度
