@@ -35,7 +35,7 @@ MULTI-VIEW は、各入力、Preview、Program を 1画面で確認できる出�
 
 ![ATEM Video flow diagram](./media/atem-videoio-draw.svg ':size=700')
 
-?> Still 1~20 の詳細は[スチルを使う](./use-still)を参照
+?> Still 1~20 の詳細は[静止画を使う](./use-still)を参照
 
 ?> Color Bars はカラーバー、Black (BLK) は黒単色の静止画入力です。この静止画は変更できません。
 
