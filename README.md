@@ -40,6 +40,6 @@ docsify serve ./docs
 
 Issue / Pull Request のガイドラインは、[公開している Web ページのトップ](https://gikendev.github.io/sohgiken-docs/)に記載しています。
 
-## ## 記事を作成・編集する
+## 記事を作成・編集する
 
 記事作成のガイドラインは [CONTRIBUTING.md](./CONTRIBUTING.md) に記載しています。
