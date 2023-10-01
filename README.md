@@ -35,3 +35,11 @@ docsify インストール済みの状態で、以下を実行します。
 ```sh
 docsify serve ./docs
 ```
+
+## 記事の作成・修正リクエスト
+
+Issue / Pull Request のガイドラインは、[公開している Web ページのトップ](https://gikendev.github.io/sohgiken-docs/)に記載しています。
+
+## 記事を作成・編集する
+
+記事作成のガイドラインは [CONTRIBUTING.md](./CONTRIBUTING.md) に記載しています。
