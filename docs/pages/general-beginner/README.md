@@ -6,3 +6,4 @@
 * [マイクチェックについて](./mic-check.md)
 * [電源管理について](./power-manage.md)
 * [プロジェクタの電源について](./projector-off.md)
+* [コネクタ抜き挿しの作法](./cable-connecting.md)
