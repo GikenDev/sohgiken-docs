@@ -2,7 +2,7 @@
 
 ![Author](https://img.shields.io/badge/Author-aKuad-brightgreen)
 ![Created date](https://img.shields.io/badge/Created-2023%2F10%2F01-blue)
-![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F10%2F01-blue)
+![Last Modified date](https://img.shields.io/badge/Last%20Modified-2023%2F10%2F02-blue)
 
 ケーブルを抜くとき、**ケーブル部分を持って引き抜かないでください。**
 
@@ -10,7 +10,7 @@
 
 ## 理由
 
-コネクタ内の端子とケーブルの接続部分は、機械的にあまり強くありません。
+端子とケーブルの接続部分は、機械的に強くありません。
 引っ張られると断線する恐れがあります。
 
 ケーブルの抜き挿しは、かならずコネクタ部分を持って行ってください。
